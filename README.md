@@ -1,6 +1,6 @@
 # Twitter Application
 
-## Available Scripts
+## Available Script
 
 To start the project in development mode, you can run:
 
