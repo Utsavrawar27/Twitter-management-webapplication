@@ -1,4 +1,4 @@
-# Twitter App
+# Twitter Application
 
 ## Available Scripts
 
